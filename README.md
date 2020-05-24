@@ -1,4 +1,4 @@
-**Projects**
+# Projects
 Here I showcase my data science projects
 
 **Competition - Notas ENEM**
