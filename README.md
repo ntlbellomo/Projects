@@ -13,4 +13,4 @@ This is a brief study about the Public Transportation of the city of Rio de Jane
 
 The data for this study was obtained at data.rio, a govermental transparency portal of the city of Rio de Janeiro.
 
-![image](image_transporte.png)
+![image](https://github.com/ntlbellomo/images/blob/master/transporteRJ/image_transporte.png)
