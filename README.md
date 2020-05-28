@@ -12,3 +12,5 @@ The data provived was of the ENEM 2016, the standardized Brazilian national exam
 This is a brief study about the Public Transportation of the city of Rio de Janeiro in the period of 1995-2019. 
 
 The data for this study was obtained at data.rio, a govermental transparency portal of the city of Rio de Janeiro.
+
+![image](image_transporte.png)
