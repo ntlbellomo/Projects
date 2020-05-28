@@ -5,7 +5,9 @@ Here I showcase my data science projects
 
 This competition was promoted by CodeNation.dev, It is a training program for technology professionals. For 10 weeks, developers and data scientists have access to challenges and content to acquire and practice the technical skills most used by technology companies around the world.
 
-The data provived was of the ENEM 2016, the standardized Brazilian national exam, which evaluates high school students in Brazil. The objective of the competition was to predict the grades of the math exam. In this competition my model reached a score of 93.72%.
+The objective of the competition was to predict the grades of the math exam. In this competition my model reached a score of 93.72%.
+
+The data provived was of the ENEM 2016, the standardized Brazilian national exam, which evaluates high school students in Brazil. 
 
 **Data Insights - Transporte RJ (Transportation RJ)**
 
